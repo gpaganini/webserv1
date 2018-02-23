@@ -11,9 +11,7 @@
 		$bim2 = 6.4;
 		$bim3 = 7.2;
 
-		echo $bim1, $bim2, $bim3;
-
-
+		echo "$bim1, $bim2, $bim3;"
 
 	?>
 </body>
