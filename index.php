@@ -5,14 +5,18 @@
 </head>
 <body>
 	<?php 
-		echo "test";
+		
 
-		$bim1 = 5.9;
-		$bim2 = 6.4;
-		$bim3 = 7.2;
+		$n1 = 10.0;
+		$n2 = 10.0;
+		$n3 = 10.0;
+		
+		$totalNota = 10.0;
 
-		echo "$bim1, $bim2, $bim3;"
+		$media = ($bim1 + $bim2 + $bim3) / 4;
+		$notaFinal = $totalNota - $media;
 
+		echo $notaFinal;
 	?>
 </body>
 </html>
