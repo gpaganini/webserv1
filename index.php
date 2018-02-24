@@ -7,13 +7,13 @@
 	<?php 
 		
 
-		$n1 = 10.0;
-		$n2 = 10.0;
-		$n3 = 10.0;
+		$n1 = 10;
+		$n2 = 10;
+		$n3 = 10;
 		
 		$totalNota = 10.0;
 
-		$media = ($bim1 + $bim2 + $bim3) / 4;
+		$media = ($n1 + $n2 + $n3) / 4;
 		$notaFinal = $media - $totalNota;
 
 		echo $media;
