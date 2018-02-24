@@ -16,6 +16,7 @@
 		$media = ($bim1 + $bim2 + $bim3) / 4;
 		$notaFinal = $media - $totalNota;
 
+		echo $media;
 		echo $notaFinal;
 	?>
 </body>
