@@ -16,7 +16,7 @@
 		$media = ($n1 + $n2 + $n3) / 4;
 		$notaFinal = $media - $totalNota;
 
-		echo $media\n;
+		echo $media;
 		echo $notaFinal;
 	?>
 </body>
