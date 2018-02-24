@@ -7,17 +7,17 @@
 	<?php 
 		
 
-		$n1 = 10;
-		$n2 = 10;
-		$n3 = 10;
+		$n1 = 6;
+		$n2 = 6;
+		$n3 = 6;
 		
-		$totalNota = 10.0;
+		$totalNota = 10;
 
 		$media = ($n1 + $n2 + $n3) / 4;
 		$notaFinal = $media - $totalNota;
 
-		echo $media;
-		//echo $notaFinal;
+		echo $media\n;
+		echo $notaFinal;
 	?>
 </body>
 </html>
