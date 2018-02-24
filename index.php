@@ -17,7 +17,7 @@
 		$notaFinal = $media - $totalNota;
 
 		echo $media;
-		echo $notaFinal;
+		//echo $notaFinal;
 	?>
 </body>
 </html>
