@@ -19,5 +19,15 @@
 		echo $media;
 		echo $notaFinal;
 	?>
+
+	<br>
+	<br>
+
+	<?php
+		$i = 1;
+		while ($i <= 10){
+				echo "HUE HUE HUE";
+				$i++;
+		}
 </body>
 </html>
