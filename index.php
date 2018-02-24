@@ -10,11 +10,9 @@
 	<br>
 
 	<?php
-		$texto = "huehuehue";
+		$texto = '<p>huehuehue</p>';
 		$i = 1;
 		while ($i <= 10) {
 				echo $texto;
 				$i++;
 		}
-</body>
-</html>
