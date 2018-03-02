@@ -5,10 +5,6 @@
 </head>
 <body>
 
-
-	<br>
-	<br>
-
 	<?php
 		$texto = '<p>huehuehue</p>';
 		$texto2 = '<p>disgrasa</p>';
@@ -23,10 +19,8 @@
 			echo $texto2;
 
 		}
-
-
 	?>
-
+//HEUEHEUHEUEUEUHUEEHEUUEHUEEUH
 
 </body>
 </html>
