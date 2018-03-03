@@ -1,5 +1,11 @@
+
+//
+
 function vetor() {
 	for ($i = 0; $i <= 364; $i++) {
-		$vector = array(0);
+		$vector = array($i);
+
+		echo $vector;
+
 	}
 }

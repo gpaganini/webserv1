@@ -9,6 +9,10 @@
 </head>
 <body>
 
+
+<?php 
+	vetor();
+?>
 <!-- 
 	<?php
 		$texto = '<p>huehuehue</p>';
@@ -25,7 +29,6 @@
 
 		}
 	?> -->
-//HEUEHEUHEUEUEUHUEEHEUUEHUEEUH
 
 </body>
 </html>
