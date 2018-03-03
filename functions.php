@@ -6,4 +6,17 @@
 		}
 	}
 
+	function vetorTrueFalse() {
+		for ($i = 0; $i <= 11; $i++) {
+			if ($i < 6) {
+				$vector[$i] = TRUE;
+				echo $vector[$i];
+			}
+			else {
+				$vector[$i] = FALSE;
+				echo $vector[$i];
+			}
+		}
+	}
+
 ?>
