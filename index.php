@@ -1,10 +1,15 @@
 <!DOCTYPE html>
+<?php 
+	include 'functions.php';
+?>
+
 <html>
 <head>
 	<title>Welcome m8</title>
 </head>
 <body>
 
+<!-- 
 	<?php
 		$texto = '<p>huehuehue</p>';
 		$texto2 = '<p>disgrasa</p>';
@@ -19,7 +24,7 @@
 			echo $texto2;
 
 		}
-	?>
+	?> -->
 //HEUEHEUHEUEUEUHUEEHEUUEHUEEUH
 
 </body>
