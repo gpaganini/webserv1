@@ -12,6 +12,7 @@
 
 <?php 
 	vetor();
+	vetorTrueFalse();
 ?>
 <!-- 
 	<?php
